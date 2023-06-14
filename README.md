@@ -38,4 +38,4 @@ I use Docker to test my Ansible roles and playbooks on multiple OSes using CI to
 ## Author
 
 Created in 2023 by Linghou Zhang.
-Baed on `docker-fedora38-ansible` created in 2023 by [Jeff Geerling](https://www.jeffgeerling.com/), author of [Ansible for DevOps](https://www.ansiblefordevops.com/).
+Based on `docker-fedora38-ansible` created in 2023 by [Jeff Geerling](https://www.jeffgeerling.com/), author of [Ansible for DevOps](https://www.ansiblefordevops.com/).
